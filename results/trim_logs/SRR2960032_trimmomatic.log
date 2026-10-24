@@ -1,0 +1,12 @@
+[0.023s][warning][os,container] Cgroup memory controller path at '/sys/fs/cgroup' seems to have moved to '/../../jupyter-children', detected limits won't be accurate
+[0.023s][warning][os,container] Cgroup cpu controller path at '/sys/fs/cgroup' seems to have moved to '/../../jupyter-children', detected limits won't be accurate
+TrimmomaticPE: Started with arguments:
+ -threads 4 -phred33 /content/raw/SRR2960032_1.fastq.gz /content/raw/SRR2960032_2.fastq.gz /content/trimmed/SRR2960032_1P.fastq.gz /content/trimmed/SRR2960032_1U.fastq.gz /content/trimmed/SRR2960032_2P.fastq.gz /content/trimmed/SRR2960032_2U.fastq.gz ILLUMINACLIP:/usr/share/trimmomatic/TruSeq3-PE-2.fa:2:30:10:2:True LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTA'
+Using Long Clipping Sequence: 'AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC'
+Using Long Clipping Sequence: 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+Using Long Clipping Sequence: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 4 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 25250142 Both Surviving: 20889433 (82.73%) Forward Only Surviving: 1117975 (4.43%) Reverse Only Surviving: 272441 (1.08%) Dropped: 2970293 (11.76%)
+TrimmomaticPE: Completed successfully

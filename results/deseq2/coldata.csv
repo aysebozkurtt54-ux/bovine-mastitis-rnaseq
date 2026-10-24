@@ -1,0 +1,13 @@
+sample,cow,condition,quarter,time_h
+A377-115,1289,control,HF,24
+A377-116,1289,infected,VF,24
+A377-71,1385,control,HF,24
+A377-72,1385,infected,VF,24
+A377-103,1586,control,HF,24
+A377-104,1586,infected,VF,24
+A377-97,1920,control,HF,24
+A377-98,1920,infected,VF,24
+A377-65,3141,control,HF,24
+A377-66,3141,infected,VF,24
+A377-67,3444,control,HF,24
+A377-68,3444,infected,VF,24
