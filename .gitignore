@@ -1,0 +1,6 @@
+   data/
+   *.fastq
+   *.fastq.gz
+   *.sra
+   *.bam
+   GSE75379_count.txt.gz
